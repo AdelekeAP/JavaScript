@@ -1,0 +1,25 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdelekeAP/JavaScript.git"
+  },
+  "keywords": [
+    "Git",
+    "JavaScript",
+    "Node",
+    "Book-examples"
+  ],
+  "author": "Adeleke Aladenusi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdelekeAP/JavaScript/issues"
+  },
+  "homepage": "https://github.com/AdelekeAP/JavaScript#readme"
+}
